@@ -1,0 +1,10 @@
+/CarRentalManagementSystem/dist/
+/CarRentalManagementSystem/build/
+/CarRentalManagementSystem/CarRentalManagementSystem-ejb/build/
+/CarRentalManagementSystem/CarRentalManagementSystem-ejb/dist/
+/CarRentalManagementSystem/CarRentalManagementSystemLibrary/dist/
+/CarRentalManagementSystem/CarRentalManagementSystemLibrary/build/
+/CarRentalManagementSystem/CaRMSManagementClient/build/
+/CarRentalManagementSystem/CaRMSManagementClient/dist/
+/CarRentalManagementSystem/CaRMSReservationClient/dist/
+/CarRentalManagementSystem/CaRMSReservationClient/build/
